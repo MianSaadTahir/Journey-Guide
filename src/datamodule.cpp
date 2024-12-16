@@ -4,17 +4,8 @@
 #define INF 999999999
 using namespace std;
 
-struct CityData
-{
-    long long int cost[20];
-    int array[20];
-} journey[15];
-
-struct InitialCosts
-{
-    long long int cost[20];
-} ini[15];
-
+struct CityData journey[15]; // Define journey as an array of 15 CityData objects
+struct InitialCosts ini[15]; // Define ini as an array of 15 InitialCosts objects
 datamodule::datamodule() : city{"London", "Paris", "New York", "Tokyo", "Sydney", "Rome", "Berlin", "Los Angeles", "Dubai", "Toronto", "Barcelona", "Moscow", "Madrid", "Seoul", "Cape Town"} {}
 
 void datamodule::costdeclaration()

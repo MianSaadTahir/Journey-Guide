@@ -7,6 +7,7 @@
 #include "datamodule.h"
 #include "inputmodule.h"
 #include "filehandlingmodule.h"
+#define INF 999999999
 
 using namespace std;
 

@@ -1,5 +1,4 @@
 #include "outputmodule.h"
-#include "datamodule.cpp"
 
 void outputmodule::ticketHistory(string username)
 {
@@ -173,10 +172,10 @@ int outputmodule::display_price(string source, string destination, int N, string
                     string *lastname = new string[no];  // Dynamic array for last names
                     string *sex = new string[no];       // Dynamic array for sex
                     int *age = new int[no];             // Dynamic array for ages
-                    delete[] firstname;                 // delete memory when done
-                    delete[] lastname;
-                    delete[] sex;
-                    delete[] age;
+                    // delete[] firstname;                 // delete memory when done
+                    // delete[] lastname;
+                    // delete[] sex;
+                    // delete[] age;
                     for (int i = 0; i < no; i++)
                     {
                         cout << endl;

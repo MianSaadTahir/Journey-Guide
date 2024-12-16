@@ -1,5 +1,6 @@
 #include "bellmanford.h"
-#include "datamodule.cpp"
+#include "datamodule.h"
+
 #include <iostream>
 
 bellmanfordalgorithm::bellmanfordalgorithm()
