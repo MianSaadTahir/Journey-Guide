@@ -227,37 +227,37 @@ class outputmodule
 public:
     string source, destination;
     void ticketHistory(string username)
-{
-    ifstream file("ticket.txt");
-
-    if (!file.is_open())
     {
-        cout << "Error: Could not open the ticket history file." << endl;
-        return;
-    }
+        ifstream file("ticket.txt");
 
-    string line;
-    bool found = false;
-
-    cout << "Ticket history for " << username << ": " << endl;
-
-    while (getline(file, line))
-    {
-        // Check if the username exists as a separate word in the line
-        if (line.find(username) != string::npos)
+        if (!file.is_open())
         {
-            found = true;
-            cout << line << endl; // Display the matching line
+            cout << "Error: Could not open the ticket history file." << endl;
+            return;
         }
-    }
 
-    if (!found)
-    {
-        cout << "No booking history found for " << username << "." << endl;
-    }
+        string line;
+        bool found = false;
 
-    file.close();
-}
+        cout << "Ticket history for " << username << ": " << endl;
+
+        while (getline(file, line))
+        {
+            // Check if the username exists as a separate word in the line
+            if (line.find(username) != string::npos)
+            {
+                found = true;
+                cout << line << endl; // Display the matching line
+            }
+        }
+
+        if (!found)
+        {
+            cout << "No booking history found for " << username << "." << endl;
+        }
+
+        file.close();
+    }
 
     void initial()
     {
@@ -488,7 +488,6 @@ public:
         return 0;
     }
 };
-
 
 int main()
 {
