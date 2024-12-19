@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <string>
-#include "filehandlingmodule.h" // Include the filehandlingmodule for login and account creation functionality
+#include "filehandlingmodule.h"
 using namespace std;
 
 class inputmodule
@@ -17,4 +17,4 @@ public:
     int noofpassenger();
 };
 
-#endif // INPUTMODULE_H
+#endif

@@ -16,4 +16,4 @@ public:
     void ticket(string username, string firstname[], string lastname[], string sex[], int age[], int no);
 };
 
-#endif // FILEHANDLINGMODULE_H
+#endif

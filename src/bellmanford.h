@@ -12,4 +12,4 @@ public:
     void floydWarshall();
 };
 
-#endif // BELLMANFORD_H
+#endif

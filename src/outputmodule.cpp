@@ -168,14 +168,11 @@ int outputmodule::display_price(string source, string destination, int N, string
                 if (c == 'Y')
                 {
                     int no = in.noofpassenger();
-                    string *firstname = new string[no]; // Dynamic array for first names
-                    string *lastname = new string[no];  // Dynamic array for last names
-                    string *sex = new string[no];       // Dynamic array for sex
-                    int *age = new int[no];             // Dynamic array for ages
-                    // delete[] firstname;                 // delete memory when done
-                    // delete[] lastname;
-                    // delete[] sex;
-                    // delete[] age;
+                    string *firstname = new string[no];
+                    string *lastname = new string[no];
+                    string *sex = new string[no];
+                    int *age = new int[no];
+
                     for (int i = 0; i < no; i++)
                     {
                         cout << endl;

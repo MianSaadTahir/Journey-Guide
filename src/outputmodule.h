@@ -24,4 +24,4 @@ public:
     int display_price(string source, string destination, int N, string username);
 };
 
-#endif // OUTPUTMODULE_H
+#endif

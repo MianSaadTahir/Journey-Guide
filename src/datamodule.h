@@ -4,8 +4,8 @@
 #include <string>
 using namespace std;
 
-extern struct CityData journey[15]; // Array of 15 CityData objects
-extern struct InitialCosts ini[15]; // Array of 15 InitialCosts objects
+extern struct CityData journey[15];
+extern struct InitialCosts ini[15];
 struct CityData
 {
     long long int cost[20];
@@ -26,4 +26,4 @@ public:
     void costdeclaration();
 };
 
-#endif // DATAMODULE_H
+#endif
