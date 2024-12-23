@@ -4,10 +4,10 @@
 
 ## Table of Contents
 - [Features](#features)
+- [Poster](#poster)
 - [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Documentation](#documentation)
-- [Poster](#poster)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -18,6 +18,9 @@
 - **Data Management**: Handles user login credentials and maintains a history of booked tickets.
 - **User Interface**:  Interactive console-based interface for ticket booking, cancellation, and viewing travel plans.
 - **Error Detection**:  Identifies negative weight cycles in the graph, ensuring valid route computations.
+
+## Poster
+<img src="assets/poster/1.png" alt="Screenshot" width="75%">
 
 ## Screenshot
 <img src="assets/wireframe/1.png" alt="Screenshot" width="75%">
@@ -35,10 +38,6 @@
 
 ## Documentation
 For a detailed overview of the project and its features, visit the [Documentation](./documentation/) or [Poster](./poster/) in the repository.
-
-## Poster
-<img src="assets/poster/1.png" alt="Screenshot" width="75%">
-
 
 ## Technologies Used
 - C++
