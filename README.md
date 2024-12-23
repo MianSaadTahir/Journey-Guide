@@ -7,6 +7,7 @@
 - [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Documentation](#documentation)
+- [Poster](#poster)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -33,7 +34,11 @@
 3. Run the `main.exe` file to launch the program.
 
 ## Documentation
-For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
+For a detailed overview of the project and its features, visit the [Documentation](./documentation/) or [Poster](./poster/) in the repository.
+
+## Poster
+<img src="assets/poster/1.png" alt="Screenshot" width="75%">
+
 
 ## Technologies Used
 - C++
