@@ -37,7 +37,7 @@
 3. Run the `main.exe` file to launch the program.
 
 ## Documentation
-For a detailed overview of the project and its features, visit the [Documentation](./documentation/) or [Poster](./poster/) in the repository.
+For a detailed overview of the project and its features, visit the [Documentation](./documentation/) in the repository.
 
 ## Technologies Used
 - C++
