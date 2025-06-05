@@ -45,6 +45,3 @@ For a detailed overview of the project and its features, visit the [Documentatio
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check out the [issues page](https://github.com/miansaadtahir/journeyguide/issues) for more information.
-
-## License
-Distributed under the MIT License. See [LICENSE](./LICENSE) for more details.
