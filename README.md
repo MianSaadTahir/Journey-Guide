@@ -20,7 +20,7 @@
 - **Error Detection**:  Identifies negative weight cycles in the graph, ensuring valid route computations.
 
 ## Poster
-<img src="assets/poster/1.png" alt="Screenshot" width="75%">
+<img src="assets/poster/1.png" alt="Screenshot" width="50%">
 
 ## Screenshot
 <img src="assets/wireframe/1.png" alt="Screenshot" width="75%">
