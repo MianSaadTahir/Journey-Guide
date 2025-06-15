@@ -23,9 +23,7 @@
 <img src="assets/poster/1.png" alt="Screenshot" width="50%">
 
 ## Screenshot
-<img src="assets/wireframe/1.png" alt="Screenshot" width="75%">
 <img src="assets/wireframe/2.png" alt="Screenshot" width="75%">
-<img src="assets/wireframe/3.png" alt="Screenshot" width="75%">
 <img src="assets/wireframe/4.png" alt="Screenshot" width="75%">
 <img src="assets/wireframe/5.png" alt="Screenshot" width="75%">
 
