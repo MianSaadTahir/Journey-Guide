@@ -10,7 +10,6 @@
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Shortest Path Calculation**: Utilizes the Bellman-Ford and Floyd Warshall algorithm to determine the most efficient travel routes between destinations.
