@@ -12,10 +12,10 @@ A C++ project designed to simplify airline ticketing and travel planning. It emp
 - [Contributing](#contributing)
 
 ## Features
-- Utilizes the Bellman-Ford and Floyd Warshall algorithm to determine the most efficient travel routes between destinations.
-- Represents the airline network as a weighted graph for optimized pathfinding and route management.
-- Handles user login credentials and maintains a history of booked tickets.
-- Interactive console-based interface for ticket booking, cancellation, and viewing travel plans.
+- Utilizes the Bellman-Ford and Floyd Warshall algorithm to determine the most efficient travel routes between destinations
+- Represents the airline network as a weighted graph for optimized pathfinding and route management
+- Handles user login credentials and maintains a history of booked tickets
+- Interactive console-based interface for ticket booking, cancellation, and viewing travel plans
 
 ## Poster
 <img src="assets/poster/1.png" alt="Screenshot" width="50%">
@@ -31,12 +31,13 @@ For a detailed overview of the project and its features, visit the [Documentatio
 
 ## Technologies Used
 - C++
+  
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/JourneyGuide.git`
 2. Navigate to the project directory:
    `cd .\src\`
-3. Run the `main.exe` file.
+3. Run the `main.exe` file
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
