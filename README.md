@@ -10,7 +10,7 @@ A C++ project designed to simplify airline ticketing and travel planning. It emp
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [License](#license)
 ## Features
 - Utilizes the Bellman-Ford and Floyd Warshall algorithm to determine the most efficient travel routes between destinations
 - Represents the airline network as a weighted graph for optimized pathfinding and route management
@@ -41,4 +41,9 @@ For a detailed overview of the project and its features, visit the [Documentatio
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/journeyguide/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/journeyguide/issues).
+
+
+## License
+
+This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/Journey-Guide/blob/main/LICENSE).
